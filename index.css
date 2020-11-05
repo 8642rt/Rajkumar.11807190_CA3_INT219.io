@@ -1,0 +1,34 @@
+.font-outline {text-shadow: 2px 2px 0px #0e022e;}
+.bgblue{
+	background-color: lightblue;
+}
+.mx100{
+	max-width: 100%;
+}
+.mx610{
+	max-width: 610px;
+}
+.rank{
+	max-width: 320px;
+	height: 390px
+}
+.wid20{
+	width: 20rem;
+}
+.pd2{
+	padding-top: 2%;
+}
+.bgwhite{
+	background-color: white;
+}
+.orange{
+	color:#de7010;
+}
+
+.diflex{
+	display: flex; 
+	flex-wrap: wrap;
+}
+.pd5{
+	padding-top: 5%;
+}
